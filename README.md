@@ -48,6 +48,10 @@ The pipe length will be 1 for both BFS and DFS (i.e. pipe length is ignored by t
 ### Start-time
 This is an integer denoting the time when water will start flowing from the source point.
 
+## How to run
+    javac waterFlow.java
+    java waterFlow -i sampleInput.txt
+
 ## Sample input
     3  
     BFS
